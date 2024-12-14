@@ -22,7 +22,7 @@ function vowelsCounter(text) {
 //if a char is a, e, i, o, or u, add 1 to counter
 //return counter
 
-//REGEX (STUDY)
+//REGEX (STUDY) - 88% FASTER THAN ITERATIVE APPROACH
 // function vowelsCounter(text) {
 //     let matchingInstances = text.match(/[aeiou]/gi)
 
